@@ -7,4 +7,5 @@
 <resources>
     <!-- Whether to show Smooth Display feature in Settings Options -->
     <bool name="config_show_smooth_display">true</bool>
+    <string name="maintainer_string">Mejsi</string>
 </resources>
