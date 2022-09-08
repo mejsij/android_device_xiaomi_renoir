@@ -21,3 +21,6 @@ PRODUCT_MODEL := M2101K9G
 PRODUCT_NAME := corvus_renoir
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Face unlock
+TARGET_FACE_UNLOCK_SUPPORTED := false
