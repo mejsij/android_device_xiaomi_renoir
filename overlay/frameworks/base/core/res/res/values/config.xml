@@ -326,7 +326,4 @@
         <item>960</item>  <!-- sensorLocationY -->
         <item>200</item>  <!-- sensorRadius -->
     </array>
-
-    <!-- Pocket Lock -->
-    <bool name="config_pocketModeSupported">false</bool>
 </resources>
